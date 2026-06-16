@@ -1,0 +1,9 @@
+aioredis==2.0.1
+alembic==1.18.4
+fastapi==0.136.1
+pydantic==2.13.3
+SQLAlchemy==2.0.49
+uvicorn==0.46.0
+pydantic-settings
+redis
+openpyxl==3.1.5
